@@ -6,5 +6,5 @@ This is a web Project
 Check out Youtube for tutorials
 ###purpose
 
-Nishanth Gowda
+Nishanth Gowda SE
 ##how yo config
