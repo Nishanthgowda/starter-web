@@ -7,5 +7,5 @@ Pages
 
 Sample website with plenty of files for demos
 
-CopyRight @2021 Nishanth Company
+CopyRight @2021 Nishanth Company All rights reserved
 
